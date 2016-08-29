@@ -4,4 +4,4 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-render	/Users/fabien/_KOALITY/_LABOS/_react-native/react-native-flexbox-kdemo/src/containers/app.js	/^  render() {$/;"	function	line:20
+render	/Users/fabien/_KOALITY/_LABOS/_react-native/react-native-flexbox-kdemo/src/containers/Home.js	/^  render(){$/;"	function	line:17

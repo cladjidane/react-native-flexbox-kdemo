@@ -22,8 +22,8 @@ class App extends React.Component {
       <Router createReducer={reducerCreate}>
         <Scene key="root">
           <Scene key="home" component={Home} title="Home" initial={true} />
-          <Scene key="pageOne" component={PageOne} title="PageOne" />
-          <Scene key="pageTwo" component={PageTwo} title="PageTwo" />
+          <Scene key="pageOne" component={PageOne} title="PageOne" hideNavBar />
+          <Scene key="pageTwo" component={PageTwo} title="PageTwo" hideNavBar />
         </Scene>
       </Router>
     );
